@@ -1,6 +1,6 @@
 ### Fala galerinha, Patrick Paterlini por aqui! 👋
 
-Sou nutricionista de formação e estou buscando meu lugar no mundo do desenvolvimento web!
+Um nutricionista em meio à tecnologia
 
 - :apple: Estou atualmente trabalhando como nutri comercial e buscando meu lugal ao sol na área da programação
 - 💻 Minhas stacks em desenvolvimento são: Javascript, ReactJS, NodeJS 
